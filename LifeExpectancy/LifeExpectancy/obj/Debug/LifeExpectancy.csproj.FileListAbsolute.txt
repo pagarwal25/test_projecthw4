@@ -1,0 +1,14 @@
+C:\Users\Pallavi\Documents\GitHub\HW4\Project-Life-Expectancy-Based-on-SocioEconomic-Indicators\LifeExpectancy\LifeExpectancy\bin\Debug\LifeExpectancy.exe
+C:\Users\Pallavi\Documents\GitHub\HW4\Project-Life-Expectancy-Based-on-SocioEconomic-Indicators\LifeExpectancy\LifeExpectancy\bin\Debug\LifeExpectancy.pdb
+C:\Users\Pallavi\Documents\GitHub\HW4\Project-Life-Expectancy-Based-on-SocioEconomic-Indicators\LifeExpectancy\LifeExpectancy\bin\Debug\MathNet.Numerics.dll
+C:\Users\Pallavi\Documents\GitHub\HW4\Project-Life-Expectancy-Based-on-SocioEconomic-Indicators\LifeExpectancy\LifeExpectancy\bin\Debug\MathNet.Numerics.xml
+C:\Users\Pallavi\Documents\GitHub\HW4\Project-Life-Expectancy-Based-on-SocioEconomic-Indicators\LifeExpectancy\LifeExpectancy\obj\Debug\LifeExpectancy.csprojResolveAssemblyReference.cache
+C:\Users\Pallavi\Documents\GitHub\HW4\Project-Life-Expectancy-Based-on-SocioEconomic-Indicators\LifeExpectancy\LifeExpectancy\obj\Debug\LifeExpectancy.exe
+C:\Users\Pallavi\Documents\GitHub\HW4\Project-Life-Expectancy-Based-on-SocioEconomic-Indicators\LifeExpectancy\LifeExpectancy\obj\Debug\LifeExpectancy.pdb
+C:\Users\Pallavi\Documents\GitHub\HW4\test_projecthw4\LifeExpectancy\LifeExpectancy\bin\Debug\LifeExpectancy.exe
+C:\Users\Pallavi\Documents\GitHub\HW4\test_projecthw4\LifeExpectancy\LifeExpectancy\bin\Debug\LifeExpectancy.pdb
+C:\Users\Pallavi\Documents\GitHub\HW4\test_projecthw4\LifeExpectancy\LifeExpectancy\bin\Debug\MathNet.Numerics.dll
+C:\Users\Pallavi\Documents\GitHub\HW4\test_projecthw4\LifeExpectancy\LifeExpectancy\bin\Debug\MathNet.Numerics.xml
+C:\Users\Pallavi\Documents\GitHub\HW4\test_projecthw4\LifeExpectancy\LifeExpectancy\obj\Debug\LifeExpectancy.csprojResolveAssemblyReference.cache
+C:\Users\Pallavi\Documents\GitHub\HW4\test_projecthw4\LifeExpectancy\LifeExpectancy\obj\Debug\LifeExpectancy.exe
+C:\Users\Pallavi\Documents\GitHub\HW4\test_projecthw4\LifeExpectancy\LifeExpectancy\obj\Debug\LifeExpectancy.pdb
